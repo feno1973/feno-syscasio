@@ -1,0 +1,10 @@
+{
+  "id": "fenosyscasio",
+  "name": "Feno SysCasio",
+  "type": "clock",
+  "src": "app.js",
+  "version": "0.01",
+  "description": "Retro Casio-style geek watchface for Bangle.js 2",
+  "tags": "clock,retro,casio,health,weather",
+  "supports": ["BANGLEJS2"]
+}
